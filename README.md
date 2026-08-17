@@ -30,6 +30,22 @@
 
 **Tech stack:** Python, Pandas, NumPy, SciPy (sparse matrices, SVD), scikit-learn (KNN, K-means, TruncatedSVD)
 
+**Documents**
+
+
+
+
+[View the Project Question in Document format](Collaborative Filtering Assignment.pdf)
+
+[View the Project in Document format - Part 1](docs/ML2_Prj1_Part1_Setup_CF_KNN.pdf)
+[View the Project in Document format - Part 2](docs/ML2_Prj1_Part2_cluster_knn.pdf)
+[View the Project in Document format - Part 3](docs/ML2_Prj1_Part3_svd_matrix_factorization.pdf)
+[View the Project in Document format - Part 4](docs/ML2_Prj1_Part4_knowledge_based.pdf)
+[View the Project in Document format - Part 5](docs/ML2_Prj1_Part5_hybrid_integration.pdf)
+[View the Project in Document format - Part 6](docs/ML2_Prj1_Part6_Final_Report_Notebook.pdf)
+
+
+
 
 ------------------------------------------------------------------------------
 Important Note:
