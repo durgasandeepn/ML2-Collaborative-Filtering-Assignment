@@ -35,7 +35,7 @@
 
 
 
-[View the Project Question in Document format](Collaborative Filtering Assignment.pdf)
+[View the Project Question in Document format](CollaborativeFilteringAssignment.pdf)
 
 
 [View the Project in Document format - Part 1](docs/ML2_Prj1_Part1_Setup_CF_KNN.pdf)
